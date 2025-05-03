@@ -2,7 +2,6 @@
 
 A beautiful, real-time 3D simulation of flocking behavior using **VPython**. This project visually demonstrates how birds (boids) behave collectively by following simple local rules like **alignment**, **cohesion**, and **separation** — resulting in natural, emergent movement.
 
-![boids-screenshot](assets/boids_demo.png) <!-- Optional: add this if you save a screenshot -->
 
 ---
 
